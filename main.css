@@ -1,0 +1,22 @@
+h1 {
+	font-family: 'Lato', sans-serif, Helvetica, Georgia;
+	text-align: center;
+}
+
+p {
+	font-family: 'Lato', Helvetica;
+	color: blue;
+	font-size: 1rem;
+}
+
+.nobull {
+	list-style-type: none;
+}
+
+nav li {
+	float: right;
+	display: inline;
+	padding: 10px;
+	position: relative;
+	right: 50px;
+}
