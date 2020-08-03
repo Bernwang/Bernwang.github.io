@@ -1,4 +1,9 @@
 .project-card {
   margin: auto;
   margin-bottom: 10%;
+  width: 80%;
+}
+
+.portrait {
+  width: 20vw;
 }
