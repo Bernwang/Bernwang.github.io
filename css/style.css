@@ -7,3 +7,17 @@
 .portrait {
   width: 20vw;
 }
+
+.logo {
+  border-radius: 20%;
+  height: 40px;
+}
+
+.navbar-brand {
+  font-size: 1.6rem;
+}
+
+.jumbotron {
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
